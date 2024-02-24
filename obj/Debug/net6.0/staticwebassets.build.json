@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZBFI18HYxBaGOgdtBIxwxLD5ncCahPPQHdKl8QHbVVM=",
+  "Source": "sqliteCRUD",
+  "BasePath": "_content/sqliteCRUD",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
